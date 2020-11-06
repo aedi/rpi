@@ -1,1 +1,1 @@
-# this is my first playbook for raspberry pis #
+# this is my first Ansible playbook to manage Raspberry PIs #
